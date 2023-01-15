@@ -8,3 +8,4 @@ python packages
 -torch.nn
 -json
 -nltk.stem.porter
+-tkinter
