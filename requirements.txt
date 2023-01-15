@@ -1,0 +1,9 @@
+#Requirements
+-Python 3.7-3.9
+
+required python packages
+-nltk
+-numpy
+-torch
+-torch.nn
+-json
