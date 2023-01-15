@@ -1,0 +1,119 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Is anyone there?",
+        "Hello",
+        "Howdy",
+        "Sup",
+        "Hi",
+        "Hey",
+        "How are you",
+        "Good day"
+      ],
+      "responses": [
+        "Hi there, what can I do for you?",
+        "Hello! How can I help you today?",
+        "Hey! What's on your mind?",
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye"
+      ],
+      "responses": [
+        "See you later",
+        "Have a nice day",
+        "Bye! Come back again soon.",
+        "Bye bye!",
+        "Farewell! It was nice talking to you."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thanks a lot!"
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure",
+        "No problem"
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "help",
+        "assistance",
+        "support"
+      ],
+      "responses": [
+        "I'm here to help! What can I assist you with?",
+        "How can I help you?",
+        "What kind of support do you need?"
+      ]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?"
+      ],
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me something funny!",
+        "Tell me a joke!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why don't scientists trust atoms? Because they make up everything.",
+        "Why don't oysters give to charity? Because they are shellfish.",
+        "Why was the math book sad? Because it had too many problems.",
+        "Why did the tomato turn red? Because it saw the salad dressing!"
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does shipping take?",
+        "When do I get my delivery?",
+        "How long does delivery take?"
+      ],
+      "responses": [
+        "Shipping takes 2-4 days",
+        "Delivery takes 2-4 days"
+      ]
+    }
+  ]
+}
