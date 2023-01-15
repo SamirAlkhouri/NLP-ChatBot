@@ -7,3 +7,4 @@ python packages
 -torch
 -torch.nn
 -json
+-nltk.stem.porter
