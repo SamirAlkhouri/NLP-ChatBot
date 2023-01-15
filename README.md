@@ -27,3 +27,5 @@ python training_bot.py
 python chatbot_app.py
 ```
 
+intents.json file can be customized. Be sure to follow the format accordingly.
+
